@@ -1,2 +1,3 @@
-# a4c-brooklyn-provider
-Brooklyn plugin for Alien 4 Cloud.
+This project has been incorporated into the Brooklyn-TOSCA project:
+https://github.com/cloudsoft/brooklyn-tosca/a4c-brooklyn-plugin
+
